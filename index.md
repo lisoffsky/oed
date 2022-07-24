@@ -11,4 +11,11 @@ Workshop materials and links are hosted here.
 Example of what you could learn about each community
 ![](/img/borshch.png)
 
-### smth else
+### Precint protocols transcriber (insert screenshot)
+http://protokol.danivyboriv.net/
+
+### Open Data Portal (closed due to a war)
+
+### Various mobile apps
+
+## smth else
