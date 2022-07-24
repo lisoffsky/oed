@@ -8,4 +8,4 @@ Workshop materials and links are hosted here.
 
 Example of what you could learn about each community
 
-![](Desktop/Link%20to%202022/NDI/github%20page/images/borshch.png)
+![](borshch.png)
