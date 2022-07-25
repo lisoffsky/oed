@@ -14,8 +14,16 @@ Example of what you could learn about each community
 ### Precint protocols transcriber (insert screenshot)
 http://protokol.danivyboriv.net/
 
+### Duplicate entries
+
+[text description](https://danivyboriv.net/archives/779) (UA)
+[![Watch the video](/img/duplentriesscreenshot.png)]https://www.youtube.com/watch?v=6B7JeQtQuQw&feature=youtu.be)
+
 ### Open Data Portal (closed due to a war)
 
 ### Various mobile apps
+
+### Search by DEC member names
+![](/img/tvkoporauaorg.png)
 
 ## smth else
