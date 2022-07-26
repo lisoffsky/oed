@@ -12,6 +12,8 @@ Workshop materials and links are hosted here.
 Example of what you could learn about each community ![](/img/borshch.png)
 
 ### Precint protocols transcriber (insert screenshot)
+![Step 1. Data entry](/img/racoon_verifier_protentty.png)
+![Step 2. Compare results](/img/racoon_verifier_check.png)
 
 <http://protokol.danivyboriv.net/>
 
@@ -19,7 +21,7 @@ Example of what you could learn about each community ![](/img/borshch.png)
 
 [text description](https://danivyboriv.net/archives/779) (UA)
 
-![[Watch the video](/img/duplentriesscreenshot.png)](https://www.youtube.com/watch?v=6B7JeQtQuQw&feature=youtu.be)
+[![Watch the video](/img/duplentriesscreenshot.png)](https://www.youtube.com/watch?v=6B7JeQtQuQw&feature=youtu.be)
 
 ### Open Data Portal (closed due to a war)
 
