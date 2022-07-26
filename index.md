@@ -14,12 +14,11 @@ Example of what you could learn about each community ![](/img/borshch.png)
 
 ![](/img/transriber_stats.png)
 
-### [PEC/DEC Protocol Verification Tool](http://protokol.danivyboriv.net/)
+### PEC/DEC Protocol Verification Tool --> (http://protokol.danivyboriv.net/)
 
+Step 1. Data entry ![](/img/racoon_verifier_protentty.png)
 
-![](/img/racoon_verifier_protentty.png "Step 1. Data entry")
-
-![](/img/racoon_verifier_check.png "Step 2. Compare results")
+Step 2. Compare results ![](/img/racoon_verifier_check.png)
 
 ### Duplicate Entries Analysis
 
