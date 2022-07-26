@@ -7,7 +7,7 @@ Workshop materials and links are hosted here.
 ### [Map of local communities borders and districts](https://www.oporaua.org/longrid/map_2020.html)
 
 ![](/img/map2020.png)
-![](/img/communitymap.gif)
+![](https://ruzzia.info/img_github_pages/communitymap.gif)
 
 Example of what you could learn about each community
 ![](/img/borshch.png)
