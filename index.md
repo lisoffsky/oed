@@ -18,7 +18,7 @@ Example of what you could learn about each community ![](/img/borshch.png)
 
 [text description](https://danivyboriv.net/archives/779) (UA)
 
-![[Watch the video](/img/duplentriesscreenshot.png)](https://www.youtube.com/watch?v=6B7JeQtQuQw&feature=youtu.be)
+![[Watch the video](/img/duplentriesscreenshot.png)][https://www.youtube.com/watch?v=6B7JeQtQuQw&feature=youtu.be]
 
 ### Open Data Portal (closed due to a war)
 
