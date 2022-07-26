@@ -11,10 +11,11 @@ Workshop materials and links are hosted here.
 Example of what you could learn about each community ![](/img/borshch.png)
 
 ### Precint Protocols Transcriber Tool
+
 ![](/img/transriber_stats.png)
 
-
 ### [PEC/DEC Protocol Verification Tool](http://protokol.danivyboriv.net/)
+
 
 ![](/img/racoon_verifier_protentty.png "Step 1. Data entry")
 
@@ -31,6 +32,7 @@ Example of what you could learn about each community ![](/img/borshch.png)
 ![](/img/tvkoporauaorg.png)
 
 ### Open Data Portal (closed due to a war)
+
 ### Various mobile apps (closed, disconnected, burnt)
 
 ## smth else
