@@ -12,8 +12,10 @@ Workshop materials and links are hosted here.
 Example of what you could learn about each community ![](/img/borshch.png)
 
 ### Precint protocols transcriber (insert screenshot)
-![Step 1. Data entry](/img/racoon_verifier_protentty.png)
-![Step 2. Compare results](/img/racoon_verifier_check.png)
+![](/img/racoon_verifier_protentty.png)
+Step 1. Data entry
+![](/img/racoon_verifier_check.png)
+Step 2. Compare results
 
 <http://protokol.danivyboriv.net/>
 
