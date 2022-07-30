@@ -5,7 +5,12 @@ Workshop materials and links are hosted here.
 ## Contents
 
 -   [OPORA Works](#opora-works)
--   [Exersices and Data](#exercises-and-data)
+-   [Exersices and Data](#exercises-and-data)\
+    -- [Open Data Cases](#open-data-cases)\
+    ---- [Case 1. Party Donors](#case-1)\
+    ---- [Case 2. DEC members](#case-2)\
+    ---- [Case 3. DEC gender and age](#case-3)\
+    ---- [Case 4. Technical candidates](#case-4)
 -   [smth else](#smth-else)
 
 ## OPORA Works {#opora-works}
@@ -42,9 +47,11 @@ Step 2. Compare results ![](/img/racoon_verifier_check.png)
 
 ## Exercises and Data {#exercises-and-data}
 
-### Open Data cases
+### Open Data cases {#open-data-cases}
 
-#### Case 1 (Donors who donated to the parties/candidates' electoral fund at local elections)
+#### Case 1 {#case-1}
+
+**(Donors who donated to the parties/candidates' electoral fund at local elections)**
 
 It was the first time at 2020 local elections when financial reports of candidates and parties were submitted to local territorial election commissions (TECs). That was a huge step forward compared to local elections 2015.
 
@@ -66,7 +73,9 @@ Donations by size, UAH. What does these bold lines mean? ![](/img/cases/donation
 -   How did open data help monitor and analyze elections?\
 -   Are financial reports available in OD format in your countries?
 
-#### Case 2 (District election commission members)
+#### Case 2 {#case-2}
+
+**(District election commission members)**
 
 The district election commission (DEC) organizes elections in a specific district which contains 170 000 voters. For each campaign, parties or candidates can nominate their candidates to the DECs. Commissions play a crucial role in local and parliamentary elections because they define who wins in the district. Therefore, each party/candidate wants to have "their" DEC members or even form a majority.
 
@@ -88,7 +97,9 @@ What these migrations could mean? ![](/img/cases/migrations_dec.png)
 -   How did open data help monitor and analyze elections?\
 -   Are financial reports available in OD format in your countries?
 
-#### Case 3 (DEC gender balance and experience)
+#### Case 3 {#case-3}
+
+**(DEC gender balance and experience)**
 
 The Central Election Commission has formed 199 district election commissions (before legally established deadline of 31 May 2019) for extraordinary parliamentary elections, scheduled for 21 July 2019.
 
@@ -118,7 +129,9 @@ DEC members by age ![](/img/cases/age_dec.png)
 -   How did open data help monitor and analyze elections?
 -   Are financial reports available in OD format in your countries?
 
-#### Case 4 ("Technical" candidates)
+#### Case 4 {#case-4}
+
+**("Technical" candidates)**
 
 Electoral political technologies remain unchanged over many electoral cycles. In particular, the use of the technology of participation in the election races of candidates or "doppelgänger" organizations has a long but repeated history not only in Ukraine. The problem is that election or related legislation does not explicitly classify such cases as violations. The law does not establish special restrictions on the participation in elections of citizens with similar personal data or biographical information. Moreover, the Central Election Commission is not authorized to verify the truthfulness and correctness of the information submitted by the candidate regarding the place of work (or public activity) or party affiliation. It is also not a violation to have in the documents any coincidences in the names of the organizations to which the MP candidates belong to or work. However, such actions may be classified as criminal offenses qualified as obstruction of the right to vote (Part 1 of Article 157 of the Criminal Code of Ukraine). But in practice it does not result in any verdicts.
 
