@@ -95,7 +95,7 @@ What these migrations could mean? ![](/img/cases/migrations_dec.png)
 
 -   How did open data contribute to free and fair elections in this particular case?\
 -   How did open data help monitor and analyze elections?\
--   Are financial reports available in OD format in your countries?
+-   Is data on commission members available in OD format in your country?
 
 #### Case 3 {#case-3}
 
@@ -127,7 +127,7 @@ DEC members by age ![](/img/cases/age_dec.png)
 
 -   How did open data contribute to free and fair elections in this particular case?
 -   How did open data help monitor and analyze elections?
--   Are financial reports available in OD format in your countries?
+-   Is data on commission members available in OD format in your country?
 
 #### Case 4 {#case-4}
 
@@ -146,6 +146,6 @@ Regional distribution of mimics ![](/img/cases/regions_duplicates.png)
 
 -   How did open data contribute to free and fair elections in this particular case?
 -   How did open data help monitor and analyze elections?
--   Are financial reports available in OD format in your countries?
+-   Is data on candidates available in OD format in your country?
 
 ## Smth Else {#smth-else}
